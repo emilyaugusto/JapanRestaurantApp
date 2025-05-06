@@ -1,5 +1,7 @@
 # 🍣 Restaurante Japonês - App Demo em Flutter
 
+<img src="https://github.com/emilyaugusto/JapanRestaurantApp/blob/main/lib/images/Tumb.png" alt="Tumb" style="width:auto; height:auto"/>
+
 Este é um projeto **demo** de um aplicativo de restaurante japonês, desenvolvido com **Flutter (Dart)**. O foco é uma **estética minimalista**, com navegação fluida e componentes visuais leves, ideal para demonstração de UI/UX e organização de cardápio digital.
 
 
