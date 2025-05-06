@@ -21,6 +21,4 @@ Este é um projeto **demo** de um aplicativo de restaurante japonês, desenvolvi
 - UI minimalista baseada em Material Design
 
 
-## Design  
-
 
